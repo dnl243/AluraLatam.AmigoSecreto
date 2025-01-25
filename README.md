@@ -17,7 +17,7 @@ Reiniciar sorteo: Limpia la lista de amigos actualizando la página y permite re
 
 Desde la terminal Bash    
 
-git clone https://github.com/dnl243/AluraLatam.AmigoSecreto      
+git clone https://github.com/dnl243/AluraLatam.AmigoSecreto.git      
 Abrir el archivo HTML: Abre el archivo index.html en tu navegador web.     
 Agregar amigos: Ingresa el nombre de cada amigo en el campo correspondiente y haz clic en el botón "Agregar".     
 Sortear: Una vez que hayas agregado todos los amigos, haz clic en el botón "Sortear".     
